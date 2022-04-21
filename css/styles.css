@@ -1,0 +1,14 @@
+body {
+  background-color: #ADD8E6;
+}
+
+p {
+  font-family: Georgia, serif;
+}
+
+hr {
+border-style: dotted none none none;
+border-color: #2B2B2B;
+border-width: 8px;
+width: 5%;
+}
